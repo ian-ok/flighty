@@ -1,0 +1,22 @@
+{
+  "flights": [
+    {
+      "id": 1,
+      "to": "WARSAW (POL)",
+      "from": "DUBLIN (IRE)",
+      "departure": "1659709832"
+    },
+    {
+      "id": 2,
+      "to": "DENVER (US)",
+      "from": "DUBLIN (IRE)",
+      "departure": "1657625432"
+    },
+    {
+      "id": 3,
+      "to": "VANCOUVER (CA)",
+      "from": "DUBLIN (IRE)",
+      "departure": "1673538756"
+    }
+  ]
+}
